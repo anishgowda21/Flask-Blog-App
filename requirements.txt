@@ -2,4 +2,5 @@ flask_ckeditor
 flask
 sqlalchemy
 flask_sqlalchemy
-
+passlib
+wtforms
